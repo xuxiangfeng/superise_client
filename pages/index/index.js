@@ -7,7 +7,165 @@ Page({
     motto: 'Hello World',
     userInfo: {},
     hasUserInfo: false,
-    canIUse: wx.canIUse('button.open-type.getUserInfo')
+    canIUse: wx.canIUse('button.open-type.getUserInfo'),
+    noticeList: [
+      {
+        "text": "aaaa"
+      },
+      {
+        "text": "bbbb"
+      },
+      {
+        "text": "cccc"
+      },
+      {
+        "text": "dddd"
+      },
+      {
+        "text": "eeee"
+      },
+      {
+        "text": "ffff"
+      },
+      {
+        "text": "gggg"
+      },
+      {
+        "text": "hhhh"
+      },
+      {
+        "text": "iiii"
+      },
+      {
+        "text": "gggg"
+      },
+      {
+        "text": "kkkk"
+      },
+      {
+        "text": "llll"
+      },
+      {
+        "text": "mmmm"
+      },
+      {
+        "text": "nnnn"
+      },
+      {
+        "text": "oooo"
+      },
+      {
+        "text": "pppp"
+      },
+      {
+        "text": "qqqq"
+      },
+      {
+        "text": "rrrr"
+      },
+      {
+        "text": "ssss"
+      },
+      {
+        "text": "tttt"
+      },
+      {
+        "text": "uuuu"
+      },
+      {
+        "text": "vvvv"
+      },
+      {
+        "text": "wwww"
+      },
+      {
+        "text": "xxxx"
+      },
+      {
+        "text": "yyyy"
+      },
+      {
+        "text": "zzzz"
+      }, 
+      {
+        "text": "aaaa"
+      },
+      {
+        "text": "bbbb"
+      },
+      {
+        "text": "cccc"
+      },
+      {
+        "text": "dddd"
+      },
+      {
+        "text": "eeee"
+      },
+      {
+        "text": "ffff"
+      },
+      {
+        "text": "gggg"
+      },
+      {
+        "text": "hhhh"
+      },
+      {
+        "text": "iiii"
+      },
+      {
+        "text": "gggg"
+      },
+      {
+        "text": "kkkk"
+      },
+      {
+        "text": "llll"
+      },
+      {
+        "text": "mmmm"
+      },
+      {
+        "text": "nnnn"
+      },
+      {
+        "text": "oooo"
+      },
+      {
+        "text": "pppp"
+      },
+      {
+        "text": "qqqq"
+      },
+      {
+        "text": "rrrr"
+      },
+      {
+        "text": "ssss"
+      },
+      {
+        "text": "tttt"
+      },
+      {
+        "text": "uuuu"
+      },
+      {
+        "text": "vvvv"
+      },
+      {
+        "text": "wwww"
+      },
+      {
+        "text": "xxxx"
+      },
+      {
+        "text": "yyyy"
+      },
+      {
+        "text": "zzzz"
+      }
+    ]
   },
   //事件处理函数
   bindViewTap: function() {

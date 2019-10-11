@@ -1,0 +1,10 @@
+<view>
+  <view class="func-row">
+    <view class="func-box text-red">
+      <text>任务</text>
+    </view>
+    <view class="func-box text-green">
+      <text>物品</text>
+    </view>
+  </view> 
+</view>

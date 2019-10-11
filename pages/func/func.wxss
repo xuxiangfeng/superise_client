@@ -1,0 +1,21 @@
+.func-row{
+  display: flex;
+  flex-direction: row;
+  padding: 0rpx 2%;
+}
+
+.func-box{
+  width: 40%;
+  height: auto;
+  text-align: center;
+  padding: 10rpx 0rpx;
+  margin: 0rpx 4%;
+}
+
+.text-red{
+  background:red;
+}
+
+.text-green{
+  background:green;
+}

@@ -19,3 +19,22 @@
 .usermotto {
   margin-top: 200px;
 }
+
+.notice-item{
+  border: 1rpx solid red;
+  width: auto;
+  height: auto;
+  margin: 20rpx 20rpx;
+  text-align: center;
+  padding: 20rpx;
+}
+
+.notice-text{
+  font-size: 20px;
+}
+
+.notice-title{
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+}

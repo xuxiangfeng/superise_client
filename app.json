@@ -1,7 +1,9 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/func/func",
+    "pages/my/my"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -9,5 +11,24 @@
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "selectedColor": "#0000FF",
+    "backgroundColor": "#FFFFFF",
+    "color": "#000000",
+    "list": [
+      {
+        "pagePath":"pages/index/index",
+        "text": "通知"
+      },
+      {
+        "pagePath": "pages/func/func",
+        "text": "功能"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  }
 }
